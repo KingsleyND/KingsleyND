@@ -18,11 +18,15 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,Linux)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html&theme=light)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,html" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,html&theme=light" />
+  <img alt="My Skills" src="https://skillicons.dev/icons?i=java,python,js,html" />
+</picture>
 
 ### 📚 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,vue,tailwind,unrealengine)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,vue,tailwind,unrealengine&theme=light)](https://skillicons.dev)
 
 
 ### 🗄️ Databases
