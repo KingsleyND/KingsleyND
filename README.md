@@ -39,7 +39,7 @@
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/kingsley-ndupu])
+- 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-ndupu)
 
 ---
 
