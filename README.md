@@ -11,7 +11,7 @@
 ## ⚡ About Me
 - 👨‍💻 Passionate about **software engineering**, **AI integration**, and **cloud-based development**.
 - 🌊 I love to **swim** when I’m not coding.
-- 🚀 Always exploring **emerging technology** .
+- 🚀 Turning curiosity about new tech into real-world innovation .
 
 ---
 
@@ -19,16 +19,19 @@
 
 ### 👨‍💻 Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,html,Linux)](https://skillicons.dev)
-- **Java**, **Python**, **JavaScript**, **HTML**, **Linux**
+
 
 ### 📚 Frameworks & Libraries
-- **Spring Boot**, **React**, **Node.js**, **Vue.js**, **Tailwind**, **Unity**, **Unreal Engine**
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,vue,tailwind,unrealengine)](https://skillicons.dev)
+
 
 ### 🗄️ Databases
-- **MongoDB**, **PostgreSQL**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,dynamodb)](https://skillicons.dev)
+
 
 ### ☁️ Cloud & DevOps
-- **AWS**, **Google Cloud**, **Docker**, **Kubernetes**
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes)](https://skillicons.dev)
+
 
 ### 📖 Currently Learning
 - **Google Cloud Technology** (Vertex AI, Kubernetes)
