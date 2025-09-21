@@ -1,6 +1,6 @@
 # Hi there👋, I'm **Kingsley**
 
-## 💻 I'm a Software engineer who loves building and turning complex problems into solutions with code.
+## 💻 I'm a Software engineer who loves designing, building, and turning complex problems into solutions with technology.
 
 
 <p align="center">
