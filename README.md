@@ -3,10 +3,6 @@
 ## 💻 I'm a Software engineer who loves designing, building, and turning complex problems into solutions with technology.
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N4Z3dkMW5wcTRuaXd6d2R5OWw5amtpMWkxeGI1ZGRnaGJkNzh1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xFkgeu7dhfgqqxJqmj/giphy.gif" width="250" />
-</p>
-
 
 
 ## 🛠️ Skills
