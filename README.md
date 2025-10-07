@@ -1,4 +1,4 @@
-# Hi there👋, I'm **Kingsley**
+# 👋Hi, I'm **Kingsley**
 
 ## 💻 I'm a Software engineer who loves designing, building, and turning complex problems into solutions with technology.
 
