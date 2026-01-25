@@ -24,7 +24,7 @@
 
 
 ### 📖 Currently Learning
-- **Google Cloud Technology** (Vertex AI, Kubernetes)
+- **Container orchestration with Kubernetes**
 
 ---
 
