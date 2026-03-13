@@ -39,7 +39,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-F5F5F5?style=flat&logo=amazonwebservices)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-F5F5F5?style=flat&logo=googlecloud)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-F5F5F5?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-F5F5F5?style=flat&logo=terraform)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F5F5F5?style=flat&logo=git)&nbsp;
 
