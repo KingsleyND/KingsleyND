@@ -45,7 +45,6 @@
 
 
 ### 📖 Currently Learning
-- **Container orchestration with Kubernetes**
 - **GoLang**
 
 ---
