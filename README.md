@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kingsley <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-#### 💻I build scalable software, design cloud-native architectures, and AI-driven solutions. Passionate about microservices, AI, DevOps, and Cloud, I love tackling complex engineering challenges and turning problems into solutions with technology.
+#### 💻I build scalable software, design cloud-native architecture, and AI-driven solutions. Passionate about microservices, AI, DevOps, and Cloud, I love tackling complex engineering challenges and turning problems into solutions with technology.
 
 
 ### 👨‍💻 Languages
